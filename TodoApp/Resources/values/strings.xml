@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">TodoApp</string>
+  <string name="todo_list_empty">No hay tareas pendientes.</string>
+  <string name="add_todo_hint">Descripción de la tarea</string>
+  <string name="add_todo_button">Guardar</string>
+  <string name="cancel">Cancelar</string>
+  <string name="delete">Eliminar</string>
+  <string name="mark_complete">Completar</string>
+  <string name="mark_incomplete">Reabrir</string>
+</resources>
